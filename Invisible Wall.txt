@@ -6,3 +6,5 @@ pbwa_bg
 replace with
 pbwa_bj
 
+
+do the invisible wall.txt search and replace thing in text strings and put directions as all and click replace all
