@@ -6,7 +6,3 @@ pbwa_bg
 replace with
 pbwa_bj
 
-
-do this in text strings and put directions as all and click 
-replace all
-
